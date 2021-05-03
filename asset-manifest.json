@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ArshdeepSharma591/Todo-React-App/static/css/main.63f2946d.chunk.css",
+    "main.js": "/ArshdeepSharma591/Todo-React-App/static/js/main.85d0a3e5.chunk.js",
+    "main.js.map": "/ArshdeepSharma591/Todo-React-App/static/js/main.85d0a3e5.chunk.js.map",
+    "runtime-main.js": "/ArshdeepSharma591/Todo-React-App/static/js/runtime-main.cc84df40.js",
+    "runtime-main.js.map": "/ArshdeepSharma591/Todo-React-App/static/js/runtime-main.cc84df40.js.map",
+    "static/js/2.d2c488ea.chunk.js": "/ArshdeepSharma591/Todo-React-App/static/js/2.d2c488ea.chunk.js",
+    "static/js/2.d2c488ea.chunk.js.map": "/ArshdeepSharma591/Todo-React-App/static/js/2.d2c488ea.chunk.js.map",
+    "static/js/3.e2c5d54c.chunk.js": "/ArshdeepSharma591/Todo-React-App/static/js/3.e2c5d54c.chunk.js",
+    "static/js/3.e2c5d54c.chunk.js.map": "/ArshdeepSharma591/Todo-React-App/static/js/3.e2c5d54c.chunk.js.map",
+    "index.html": "/ArshdeepSharma591/Todo-React-App/index.html",
+    "static/css/main.63f2946d.chunk.css.map": "/ArshdeepSharma591/Todo-React-App/static/css/main.63f2946d.chunk.css.map",
+    "static/js/2.d2c488ea.chunk.js.LICENSE.txt": "/ArshdeepSharma591/Todo-React-App/static/js/2.d2c488ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc84df40.js",
+    "static/js/2.d2c488ea.chunk.js",
+    "static/css/main.63f2946d.chunk.css",
+    "static/js/main.85d0a3e5.chunk.js"
+  ]
+}
