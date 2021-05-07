@@ -1,0 +1,17 @@
+.addtodos{
+    width:50%;
+    display: block;
+    justify-content: center;
+    margin:auto;
+    margin-top: 20px;
+
+    
+}
+.sub{
+   display: grid;
+   margin: auto;
+    
+}
+h3{
+    text-align: center;
+}
